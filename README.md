@@ -10,7 +10,7 @@ This repository is structured as a progressive learning path, covering everythin
 
 ```
 spring-boot-learning/
-├── 📁 01-getting-started/          # Spring Boot basics, setup, and first application
+├── 📁 01-IOC_DI_demo/              # Spring Boot basics, which includes IOC, DI, and the first application.
 ├── 📁 02-web-development/          # REST APIs, controllers, and web layer
 ├── 📁 03-data-access/              # JPA, databases, and data persistence
 ├── 📁 04-security/                 # Authentication, authorization, and security
@@ -24,10 +24,10 @@ spring-boot-learning/
 
 ## 🎯 Learning Path
 
-### Phase 1: Foundation
-- **Getting Started**: Environment setup, Spring Boot basics, and first "Hello World" application
-- **Web Development**: Building REST APIs, handling requests/responses, and error handling
-- **Data Access**: Working with databases, JPA, repositories, and data modeling
+1️⃣ Phase 1: Foundation
+- Getting Started: Environment setup, Spring Boot basics (IOC and DI ), and first application
+- Web Development: Building REST APIs, handling requests/responses, and error handling
+- **Data Access: Working with databases, JPA, repositories, and data modeling
 
 ### Phase 2: Intermediate
 - **Security**: Implementing authentication and authorization
