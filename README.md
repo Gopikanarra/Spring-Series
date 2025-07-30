@@ -12,7 +12,7 @@ This repository is structured as a progressive learning path, covering everythin
 spring-boot-learning/
 ├── 📁 01-IOC_DI_demo/              # Spring Boot basics, which includes IOC, DI, and the first application.
 ├── 📁 02-BeanLifeCycle/            # complete understand about BEAN LIFE CYCLE (covers @component,@scope,@postconstruct,@PreDestroy annotations ).
-├── 📁 03-student directory/        # a small application to understand JPA, databases, and data persistence ( covers                                                        |                                    @RestController,@GetMNapping,@Service,@Controller,@Repository,@Autowired,@Component)
+├── 📁 03-student directory/        # a small application to understand JPA, databases, and data persistence ( covers                                                       @RestController,@GetMNapping,@Service,@Controller,@Repository,@Autowired,@Component,@PostMapping)
 ├── 📁 04-security/                 # Authentication, authorization, and security
 ├── 📁 05-testing/                  # Unit testing, integration testing
 ├── 📁 06-microservices/            # Microservices architecture with Spring Boot
